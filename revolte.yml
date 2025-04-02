@@ -3,8 +3,7 @@ revolte:
   project: Youtube
   appName: subscription
   env:
-    preview:
-      branch: development
+    qa:
       services:
         rid_1:
           name: web-app
