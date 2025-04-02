@@ -1,6 +1,6 @@
 revolte:
   version: '1.0'
-  project: Youtube
+  project: YouTube
   appName: subscription
   env:
     qa:
