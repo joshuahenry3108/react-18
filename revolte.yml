@@ -3,7 +3,7 @@ revolte:
   project: YouTube
   appName: Shorts
   env:
-    qa:
+    staging:
       branch: development
       services:
         rid_1:
